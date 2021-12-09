@@ -1,7 +1,5 @@
 package com.ssoon
 
-import java.util.*
-
 fun main() {
     val colors = arrayOfNulls<String>(5)
     colors[0] = "purple"

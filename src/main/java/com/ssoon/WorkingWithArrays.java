@@ -3,7 +3,7 @@ package com.ssoon;
 import java.util.Arrays;
 import java.util.stream.IntStream;
 
-public class TheArrays {
+public class WorkingWithArrays {
 
     public static void main(String[] args) {
         String[] colors = new String[5];
